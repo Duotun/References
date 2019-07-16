@@ -13,10 +13,10 @@ This paper presents
      
     - 
     
-    https://www.designmantic.com/blog/algorithm-based-designs/
+    [links](https://www.designmantic.com/blog/algorithm-based-designs/)
     
     - 
     
-    https://www.smashingmagazine.com/2017/01/algorithm-driven-design-how-artificial-intelligence-changing-design/
+    [links](https://www.smashingmagazine.com/2017/01/algorithm-driven-design-how-artificial-intelligence-changing-design/)
 
 
