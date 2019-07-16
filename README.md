@@ -12,13 +12,13 @@
 (3) [Utilization of AI Concepts and Techniques for Enriching the Quality of Architectural Design Artifacts](Designing%20Part/Utilization%20of%20AI%20Concepts%20and%20Techniques%20for%20Enriching%20the%20Quality%20of%20Architectural%20Design%20Artifacts.pdf)
 
 (4) Some Online Articles:
-    
+
+<1> [Algorithm-based Designs](https://www.designmantic.com/blog/algorithm-based-designs/)
 - This article illustrates
 
-[links](https://www.designmantic.com/blog/algorithm-based-designs/)
+<2> [Algorithm-driven Design How Artificial Intelligence Changing Design](https://www.smashingmagazine.com/2017/01/algorithm-driven-design-how-artificial-intelligence-changing-design/)
     
 - This article illustrates
     
-[links](https://www.smashingmagazine.com/2017/01/algorithm-driven-design-how-artificial-intelligence-changing-design/)
 
 
