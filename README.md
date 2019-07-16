@@ -1,9 +1,9 @@
 # References
 
-## 1. Designing Part
-(1) [Can a Machine Design? ](Designing%20Part/Can a Machine Design.pdf)
-
-(2)
+## 1. Designing Part ([here](Designing%20Part)
+(1) Can a Machine Design?
+   
+(2) 
 
 (3)
 
