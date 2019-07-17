@@ -13,6 +13,7 @@
 
 (3) [Utilization of AI Concepts and Techniques for Enriching the Quality of Architectural Design Artifacts](Designing%20Part/Utilization%20of%20AI%20Concepts%20and%20Techniques%20for%20Enriching%20the%20Quality%20of%20Architectural%20Design%20Artifacts.pdf)
 
+- This paper presents 
 
 
 #### Some Online Articles
